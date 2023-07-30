@@ -1,0 +1,133 @@
+E:\My Projet\C#\GUI\Learning\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.exe.config
+E:\My Projet\C#\GUI\Learning\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.exe
+E:\My Projet\C#\GUI\Learning\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.pdb
+E:\My Projet\C#\GUI\Learning\BackUp_DataBase\BackUp_DataBase\bin\Debug\MySql.Data.dll
+E:\My Projet\C#\GUI\Learning\BackUp_DataBase\BackUp_DataBase\bin\Debug\mysqlbackup.dll
+E:\My Projet\C#\GUI\Learning\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.BackUp_DataBase.exe.config
+E:\My Projet\C#\GUI\Learning\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.Properties.Resources.resources
+E:\My Projet\C#\GUI\Learning\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.GenerateResource.Cache
+E:\My Projet\C#\GUI\Learning\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.exe
+E:\My Projet\C#\GUI\Learning\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.pdb
+E:\My Projet\C#\GUI\Learning\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmBackUp.resources
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\OBAMA\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.exe.config
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\OBAMA\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.exe
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\OBAMA\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.pdb
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\OBAMA\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.exe
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\OBAMA\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.pdb
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\OBAMA\BackUp_DataBase\BackUp_DataBase\bin\Debug\MySql.Data.dll
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\OBAMA\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.BackUp_DataBase.exe.config
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\OBAMA\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmBackUp.resources
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\OBAMA\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.Properties.Resources.resources
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\OBAMA\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.GenerateResource.Cache
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\OBAMA\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmParametres.resources
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\OBAMA\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csprojResolveAssemblyReference.cache
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.exe.config
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.exe
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.pdb
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.exe
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.pdb
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\BackUp_DataBase\BackUp_DataBase\bin\Debug\MySql.Data.dll
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.BackUp_DataBase.exe.config
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmBackUp.resources
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmParametres.resources
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.Properties.Resources.resources
+D:\My Projet\C#\Projets\Gestion Commerciale\BackUp\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.GenerateResource.Cache
+F:\My Projet\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.exe.config
+F:\My Projet\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.exe
+F:\My Projet\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.pdb
+F:\My Projet\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.exe
+F:\My Projet\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.pdb
+F:\My Projet\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\bin\Debug\MySql.Data.dll
+F:\My Projet\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.BackUp_DataBase.exe.config
+F:\My Projet\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmBackUp.resources
+F:\My Projet\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmParametres.resources
+F:\My Projet\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.Properties.Resources.resources
+F:\My Projet\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.GenerateResource.Cache
+F:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.exe.config
+F:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.exe
+F:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.pdb
+F:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.exe
+F:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.pdb
+F:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\MySql.Data.dll
+F:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.BackUp_DataBase.exe.config
+F:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmBackUp.resources
+F:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmParametres.resources
+F:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.Properties.Resources.resources
+F:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.GenerateResource.Cache
+F:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+G:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.exe.config
+G:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.exe
+G:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.pdb
+G:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.exe
+G:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.pdb
+G:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\MySql.Data.dll
+G:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+G:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csprojResolveAssemblyReference.cache
+G:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.BackUp_DataBase.exe.config
+G:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmBackUp.resources
+G:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmParametres.resources
+G:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.Properties.Resources.resources
+G:\My Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.GenerateResource.Cache
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.exe.config
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.exe
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.pdb
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\MySql.Data.dll
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\mysqlbackup.dll
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\cs\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\it\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\ja\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\ko\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\pl\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\tr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\zh-Hans\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csprojAssemblyReference.cache
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.exe.config
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmBackUp.resources
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmParametres.resources
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.Properties.Resources.resources
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.GenerateResource.cache
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.CoreCompileInputs.cache
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.CopyComplete
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.exe
+D:\Projet\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.pdb
+D:\HDDH2\Projets\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.exe.config
+D:\HDDH2\Projets\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.exe
+D:\HDDH2\Projets\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.pdb
+D:\HDDH2\Projets\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\HDDH2\Projets\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.exe.config
+D:\HDDH2\Projets\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmBackUp.resources
+D:\HDDH2\Projets\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmParametres.resources
+D:\HDDH2\Projets\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.Properties.Resources.resources
+D:\HDDH2\Projets\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.GenerateResource.cache
+D:\HDDH2\Projets\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.CoreCompileInputs.cache
+D:\HDDH2\Projets\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.CopyComplete
+D:\HDDH2\Projets\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.exe
+D:\HDDH2\Projets\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.pdb
+D:\HDDH2\Projets\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\bin\Debug\MySql.Data.dll
+D:\HDDH2\Projets\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.AssemblyReference.cache
+D:\HDDH2\Projets\C#\Projets\Backup_database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.SuggestedBindingRedirects.cache
+D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.exe.config
+D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.exe
+D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\bin\Debug\BackUp_DataBase.pdb
+D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.AssemblyReference.cache
+D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.SuggestedBindingRedirects.cache
+D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.exe.config
+D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmBackUp.resources
+D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmParametres.resources
+D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.Properties.Resources.resources
+D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.GenerateResource.cache
+D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.CoreCompileInputs.cache
+D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.CopyComplete
+D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.exe
+D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.pdb
