@@ -1,6 +1,6 @@
 ﻿namespace BackUp_DataBase
 {
-    partial class frmBackUp
+    partial class frmMain
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmBackUp));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMain));
             this.btnStartBackUp = new System.Windows.Forms.Button();
             this.btnSaveDialog = new System.Windows.Forms.Button();
             this.lblPath = new System.Windows.Forms.Label();

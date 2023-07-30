@@ -11,14 +11,14 @@ using MySql.Data.MySqlClient;
 
 namespace BackUp_DataBase
 {
-    public partial class frmBackUp : Form
+    public partial class frmMain : Form
     {
         bool EtatBool;
         connect cn = new connect();
         
         string ExportFolder;
 
-        public frmBackUp()
+        public frmMain()
         {
             InitializeComponent();
         }
