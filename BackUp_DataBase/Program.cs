@@ -16,7 +16,7 @@ namespace BackUp_DataBase
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmBackUp());
+            Application.Run(new frmMain());
         }
     }
 }
