@@ -123,11 +123,11 @@ D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\bin\
 D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.AssemblyReference.cache
 D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.SuggestedBindingRedirects.cache
 D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.exe.config
-D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmBackUp.resources
-D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmParametres.resources
 D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.Properties.Resources.resources
 D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.GenerateResource.cache
 D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.CoreCompileInputs.cache
 D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.csproj.CopyComplete
 D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.exe
 D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.pdb
+D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmMain.resources
+D:\HDDH2\Projets\C#\Projets\Backup database\BackUp_DataBase\BackUp_DataBase\obj\Debug\BackUp_DataBase.frmSettings.resources
