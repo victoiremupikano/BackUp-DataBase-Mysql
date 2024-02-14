@@ -103,12 +103,6 @@ namespace BackUp_DataBase
             }
         }
 
-        private void picSettings_Click(object sender, EventArgs e)
-        {
-            frmSettings frm = new frmSettings();
-            frm.ShowDialog();
-        }
-
         private void frmBackUp_FormClosing(object sender, FormClosingEventArgs e)
         {
             if (cn.conn.State == ConnectionState.Closed)
@@ -119,6 +113,12 @@ namespace BackUp_DataBase
             {
                 cn.conn.Close();
             }
+        }
+
+        private void paramètresToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmSettings frm = new frmSettings();
+            frm.ShowDialog();
         }
     }
 }

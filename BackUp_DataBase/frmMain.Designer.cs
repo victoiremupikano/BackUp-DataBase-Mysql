@@ -28,45 +28,43 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMain));
             this.btnStartBackUp = new System.Windows.Forms.Button();
             this.btnSaveDialog = new System.Windows.Forms.Button();
             this.lblPath = new System.Windows.Forms.Label();
             this.lblTitreBackUp = new System.Windows.Forms.Label();
-            this.picSettings = new System.Windows.Forms.PictureBox();
             this.picLogoBackup = new System.Windows.Forms.PictureBox();
-            ((System.ComponentModel.ISupportInitialize)(this.picSettings)).BeginInit();
+            this.contextMenuStripCTRL = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.paramètresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             ((System.ComponentModel.ISupportInitialize)(this.picLogoBackup)).BeginInit();
+            this.contextMenuStripCTRL.SuspendLayout();
             this.SuspendLayout();
             // 
             // btnStartBackUp
             // 
-            this.btnStartBackUp.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.btnStartBackUp.BackColor = System.Drawing.Color.Transparent;
             this.btnStartBackUp.Enabled = false;
             this.btnStartBackUp.FlatAppearance.BorderSize = 0;
-            this.btnStartBackUp.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnStartBackUp.Font = new System.Drawing.Font("Gill Sans Ultra Bold Condensed", 24F);
+            this.btnStartBackUp.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnStartBackUp.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(64)))));
-            this.btnStartBackUp.Location = new System.Drawing.Point(12, 398);
+            this.btnStartBackUp.Location = new System.Drawing.Point(13, 338);
+            this.btnStartBackUp.Margin = new System.Windows.Forms.Padding(4);
             this.btnStartBackUp.Name = "btnStartBackUp";
-            this.btnStartBackUp.Size = new System.Drawing.Size(201, 56);
+            this.btnStartBackUp.Size = new System.Drawing.Size(213, 34);
             this.btnStartBackUp.TabIndex = 9;
-            this.btnStartBackUp.Text = "DEBUTER";
+            this.btnStartBackUp.Text = "DEMARRE";
             this.btnStartBackUp.UseVisualStyleBackColor = false;
             this.btnStartBackUp.Click += new System.EventHandler(this.btnStartBackUp_Click);
             // 
             // btnSaveDialog
             // 
-            this.btnSaveDialog.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
             this.btnSaveDialog.FlatAppearance.BorderSize = 0;
-            this.btnSaveDialog.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnSaveDialog.Font = new System.Drawing.Font("Gill Sans Ultra Bold Condensed", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnSaveDialog.Location = new System.Drawing.Point(12, 294);
+            this.btnSaveDialog.Font = new System.Drawing.Font("Century Gothic", 8.25F);
+            this.btnSaveDialog.Location = new System.Drawing.Point(14, 237);
+            this.btnSaveDialog.Margin = new System.Windows.Forms.Padding(4);
             this.btnSaveDialog.Name = "btnSaveDialog";
-            this.btnSaveDialog.Size = new System.Drawing.Size(201, 28);
+            this.btnSaveDialog.Size = new System.Drawing.Size(212, 34);
             this.btnSaveDialog.TabIndex = 8;
             this.btnSaveDialog.Text = "Choisir un emplacement d\'enregistrement";
             this.btnSaveDialog.UseVisualStyleBackColor = true;
@@ -74,75 +72,75 @@
             // 
             // lblPath
             // 
-            this.lblPath.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.lblPath.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPath.Font = new System.Drawing.Font("Century Gothic", 8.25F);
             this.lblPath.ForeColor = System.Drawing.SystemColors.ControlDark;
-            this.lblPath.Location = new System.Drawing.Point(12, 336);
+            this.lblPath.Location = new System.Drawing.Point(14, 275);
+            this.lblPath.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblPath.Name = "lblPath";
-            this.lblPath.Size = new System.Drawing.Size(201, 48);
+            this.lblPath.Size = new System.Drawing.Size(212, 59);
             this.lblPath.TabIndex = 7;
             this.lblPath.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblTitreBackUp
             // 
-            this.lblTitreBackUp.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.lblTitreBackUp.Font = new System.Drawing.Font("Gill Sans Ultra Bold", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitreBackUp.Location = new System.Drawing.Point(12, 21);
+            this.lblTitreBackUp.AutoSize = true;
+            this.lblTitreBackUp.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTitreBackUp.Location = new System.Drawing.Point(14, 26);
+            this.lblTitreBackUp.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblTitreBackUp.Name = "lblTitreBackUp";
-            this.lblTitreBackUp.Size = new System.Drawing.Size(243, 30);
+            this.lblTitreBackUp.Size = new System.Drawing.Size(143, 19);
             this.lblTitreBackUp.TabIndex = 6;
             this.lblTitreBackUp.Text = "Backup MySql BD";
             // 
-            // picSettings
-            // 
-            this.picSettings.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.picSettings.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.picSettings.Image = global::BackUp_DataBase.Properties.Resources.iconfinder_settings_4341324_120534;
-            this.picSettings.Location = new System.Drawing.Point(220, 71);
-            this.picSettings.Name = "picSettings";
-            this.picSettings.Size = new System.Drawing.Size(35, 31);
-            this.picSettings.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picSettings.TabIndex = 11;
-            this.picSettings.TabStop = false;
-            this.picSettings.Click += new System.EventHandler(this.picSettings_Click);
-            // 
             // picLogoBackup
             // 
-            this.picLogoBackup.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.picLogoBackup.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.picLogoBackup.Image = global::BackUp_DataBase.Properties.Resources.database_cache_128;
-            this.picLogoBackup.Location = new System.Drawing.Point(12, 71);
+            this.picLogoBackup.Location = new System.Drawing.Point(13, 49);
+            this.picLogoBackup.Margin = new System.Windows.Forms.Padding(4);
             this.picLogoBackup.Name = "picLogoBackup";
-            this.picLogoBackup.Size = new System.Drawing.Size(201, 215);
+            this.picLogoBackup.Size = new System.Drawing.Size(213, 180);
             this.picLogoBackup.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picLogoBackup.TabIndex = 5;
             this.picLogoBackup.TabStop = false;
             // 
-            // frmBackUp
+            // contextMenuStripCTRL
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.contextMenuStripCTRL.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.paramètresToolStripMenuItem});
+            this.contextMenuStripCTRL.Name = "contextMenuStripCTRL";
+            this.contextMenuStripCTRL.Size = new System.Drawing.Size(134, 26);
+            // 
+            // paramètresToolStripMenuItem
+            // 
+            this.paramètresToolStripMenuItem.Name = "paramètresToolStripMenuItem";
+            this.paramètresToolStripMenuItem.Size = new System.Drawing.Size(133, 22);
+            this.paramètresToolStripMenuItem.Text = "Paramètres";
+            this.paramètresToolStripMenuItem.Click += new System.EventHandler(this.paramètresToolStripMenuItem_Click);
+            // 
+            // frmMain
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.ClientSize = new System.Drawing.Size(264, 488);
-            this.Controls.Add(this.picSettings);
+            this.ClientSize = new System.Drawing.Size(239, 452);
             this.Controls.Add(this.btnStartBackUp);
             this.Controls.Add(this.btnSaveDialog);
             this.Controls.Add(this.lblPath);
             this.Controls.Add(this.lblTitreBackUp);
             this.Controls.Add(this.picLogoBackup);
+            this.Font = new System.Drawing.Font("Century Gothic", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
-            this.MaximumSize = new System.Drawing.Size(336, 527);
-            this.Name = "frmBackUp";
+            this.MaximumSize = new System.Drawing.Size(389, 640);
+            this.Name = "frmMain";
             this.Text = "backup";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmBackUp_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.picSettings)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picLogoBackup)).EndInit();
+            this.contextMenuStripCTRL.ResumeLayout(false);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -153,7 +151,8 @@
         private System.Windows.Forms.Label lblPath;
         private System.Windows.Forms.Label lblTitreBackUp;
         private System.Windows.Forms.PictureBox picLogoBackup;
-        private System.Windows.Forms.PictureBox picSettings;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStripCTRL;
+        private System.Windows.Forms.ToolStripMenuItem paramètresToolStripMenuItem;
     }
 }
 
