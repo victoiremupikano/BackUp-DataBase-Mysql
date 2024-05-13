@@ -80,7 +80,7 @@ namespace BackUp_DataBase
             {
                 try
                 {
-                    btnStartBackUp.Text = "débuter backup";
+                    btnStartBackUp.Text = "Débuter backup";
                     using (MySqlCommand cmd = new MySqlCommand())
                     {
                         using (MySqlBackup ab = new MySqlBackup(cmd))
@@ -90,7 +90,7 @@ namespace BackUp_DataBase
                         }
                     }
                     MessageBox.Show("BackUp éffectuer avec succès à l'emplacement " + lblPath.Text, "Backup", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    btnStartBackUp.Text = "DEBUTER";
+                    btnStartBackUp.Text = "Débuter";
                 }
                 catch (Exception Ex)
                 {

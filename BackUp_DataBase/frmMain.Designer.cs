@@ -53,7 +53,7 @@
             this.btnStartBackUp.Name = "btnStartBackUp";
             this.btnStartBackUp.Size = new System.Drawing.Size(213, 34);
             this.btnStartBackUp.TabIndex = 9;
-            this.btnStartBackUp.Text = "DEMARRE";
+            this.btnStartBackUp.Text = "Débuter";
             this.btnStartBackUp.UseVisualStyleBackColor = false;
             this.btnStartBackUp.Click += new System.EventHandler(this.btnStartBackUp_Click);
             // 
